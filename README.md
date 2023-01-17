@@ -14,7 +14,7 @@ The dataset is available at [Kaggle](https://www.kaggle.com/competitions/learn-a
 
 Data wrangling and exploration:
 - Pandas
-- Numpy
+- NumPy
 
 Data Visualization:
 - Matplotlib
