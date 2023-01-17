@@ -25,6 +25,7 @@ Text Preprocessing:
 
 Modeling:
 - Sklearn
+  - TfidfVectorizer
   - NMF
   - RandomForestClassifier
   - LogisticRegression
